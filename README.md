@@ -61,3 +61,4 @@ build:
    - docker build .user
 ```
  * скриншоты с успешно собранными сборками.
+![Test/Build](./img/4.PNG)
