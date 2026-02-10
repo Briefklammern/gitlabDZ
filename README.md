@@ -43,7 +43,8 @@
 В качестве ответа в шаблон с решением добавьте: 
    
  * файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
-`stages:
+```
+stages:
   - test
   - build
 
@@ -57,5 +58,6 @@ build:
   stage: build
   image: docker:latest
   script:
-   - docker build .user`
+   - docker build .user
+```
  * скриншоты с успешно собранными сборками.
