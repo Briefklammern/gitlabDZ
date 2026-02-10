@@ -38,6 +38,7 @@
 
 1. Запушьте [репозиторий](https://github.com/netology-code/sdvps-materials/tree/main/gitlab) на GitLab, изменив origin. Это изучалось на занятии по Git.
 2. Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.
+![Push/yml](./img/3.PNG)
 
 В качестве ответа в шаблон с решением добавьте: 
    
